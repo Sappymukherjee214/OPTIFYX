@@ -21,7 +21,7 @@ During my internship at Optifyx Technology, I worked on several key projects, in
 
 ## Key Learnings and Skills Acquired:-
 
- 1. **Proficient in Python programming and problem-solving.**
- 2. **Experience with version control systems like Git and GitHub.**
- 3. **Enhanced understanding of software development lifecycle and best practices.**
- 4. **Collaboration and teamwork in a professional setting.**
+ - **Proficient in Python programming and problem-solving.**
+ -  **Experience with version control systems like Git and GitHub.**
+ -  **Enhanced understanding of software development lifecycle and best practices.**
+ - **Collaboration and teamwork in a professional settings.**

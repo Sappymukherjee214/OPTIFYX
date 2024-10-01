@@ -7,15 +7,15 @@ Optifyx Technology is a forward-thinking tech company specializing in innovative
 Python Development Intern at Optifyx Technology
 During my internship at Optifyx Technology, I worked on several key projects, including:
 
-## Project 1: BMI Calculator
+- ## Project 1: BMI Calculator
 - **Developed a BMI Calculator using Python to help users calculate their Body Mass Index and understand their weight category.**
 - **Implemented user input validation and error handling to ensure a smooth user experience.**
 
-## Project 2: Basic Weather App
+- ## Project 2: Basic Weather App
 - **Created a Basic Weather App using Python that fetches and displays current weather information for a specified location.**
 - **Utilized APIs to retrieve real-time weather data and presented it in a user-friendly format.**
 
-## Project 3: Random Password Generator
+- ## Project 3: Random Password Generator
 - **Developed a Random Password Generator using Python to help users create secure passwords.**
 - **Included features for customizing password length and complexity to enhance security.**
 

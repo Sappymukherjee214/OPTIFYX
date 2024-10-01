@@ -19,7 +19,7 @@ Project 3: Random Password Generator
 Developed a Random Password Generator using Python to help users create secure passwords.
 Included features for customizing password length and complexity to enhance security.
 
-Key Learnings and Skills Acquired
+Key Learnings and Skills Acquired:-
 Proficient in Python programming and problem-solving.
 Experience with version control systems like Git and GitHub.
 Enhanced understanding of software development lifecycle and best practices.

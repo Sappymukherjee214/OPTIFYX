@@ -5,6 +5,7 @@ Optifyx Technology is a forward-thinking tech company specializing in innovative
 
 ## Internship Experience:-
 **Python Development Intern at Optifyx Technology**
+
 During my internship at Optifyx Technology, I worked on several key projects, including:
 
 ## Project 1: BMI Calculator
